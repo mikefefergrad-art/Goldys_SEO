@@ -1,6 +1,7 @@
 # Goldy's Competitive Battle Cards & Pricing Comparison
 **Category:** Instant Oatmeal & Hot Cereal (primary) · Superseed Cereal (secondary)
-**Market:** Canada (primary) | **Last Updated:** March 2026
+**Market:** Canada | **Last Updated:** March 2026
+**All prices in CAD** (USD converted at ~1.38 CAD/USD where applicable)
 
 ---
 
@@ -14,9 +15,9 @@
 
 | SKU | Key Stats | Price |
 |---|---|---|
-| **Instant Superseed Oatmeal** | Glyphosate-free Canadian oats + chia, hemp, pumpkin, buckwheat · freeze-dried fruit · sweetened with organic date powder · 0g refined sugar | ~$9.99 CAD / 210g |
+| **Instant Superseed Oatmeal** | Glyphosate-free Canadian oats + chia, hemp, pumpkin, buckwheat · freeze-dried fruit · sweetened with organic date powder · 0g refined sugar | ~$9.99 / 210g |
 | **Protein+ Instant Superseed Oatmeal** | 10g plant-based protein · 5g fibre · oats + chia, pumpkin, sunflower seeds · 0g refined sugar · 100% vegan | TBD (new SKU) |
-| **Superseed Cereal** | Grain-free · chia, hemp, pumpkin, buckwheat + freeze-dried fruit · 0g added sugar | $9.00 CAD / 225g |
+| **Superseed Cereal** | Grain-free · chia, hemp, pumpkin, buckwheat + freeze-dried fruit · 0g added sugar | $9.00 / 225g |
 
 **What sets every Goldy's product apart for families:**
 - Glyphosate-free Canadian oats (oatmeal line) — parents can trust what they're feeding their kids
@@ -44,19 +45,19 @@
 
 ---
 
-## Pricing Comparison: Instant Oatmeal / Hot Cereal
+## Pricing Comparison: Instant Oatmeal / Hot Cereal (all CAD)
 
-| Brand | Product | Size | Price | Per Serving (est.) | Market |
-|---|---|---|---|---|---|
-| **Goldy's** | Instant Superseed Oatmeal | 210g | ~$9.99 CAD | ~$2.50–3.00 CAD | Canada |
-| **Goldy's** | Protein+ Oatmeal | TBD | TBD | TBD | Canada |
-| **Yumi Organics** | Morning Oats (8 pkts) | box | ~$9.60 CAD | ~$1.20 CAD | Canada |
-| **Yumi Organics** | Overnight Oats (5 pkts) | box | ~$10 CAD | ~$2.00 CAD | Canada |
-| **Nature's Path** | Instant Oatmeal (8 pkts) | 14oz | ~$5–7 USD | ~$0.63–$0.88 USD | US/Canada |
-| **Quaker Protein** | Instant Oatmeal (6 pkts) | 12.7oz | ~$5–6 USD | ~$0.83–$1.00 USD | US/Canada |
-| **Bob's Red Mill** | Protein Oats | 64oz | $8.89 USD (Costco) | ~$0.44 USD | US |
-| **One Degree** | Sprouted Instant Oatmeal | 18oz | ~$7–9 USD | ~$1.00–1.30 USD | US/Canada |
-| **Seven Sundays** | Muesli | 12oz | ~$9–10 USD | ~$1.50–2.00 USD | US |
+| Brand | Product | Size | Price (CAD) | Per Serving (CAD, est.) |
+|---|---|---|---|---|
+| **Goldy's** | Instant Superseed Oatmeal | 210g | ~$9.99 | ~$2.50–3.00 |
+| **Goldy's** | Protein+ Oatmeal | TBD | TBD | TBD |
+| **Yumi Organics** | Morning Oats (8 pkts) | box | ~$9.60 | ~$1.20 |
+| **Yumi Organics** | Overnight Oats (5 pkts) | box | ~$10.00 | ~$2.00 |
+| **Nature's Path** | Instant Oatmeal (8 pkts) | 14oz | ~$6.90–9.65 | ~$0.87–1.21 |
+| **Quaker Protein** | Instant Oatmeal (6 pkts) | 12.7oz | ~$6.90–8.30 | ~$1.15–1.38 |
+| **Bob's Red Mill** | Protein Oats | 64oz | ~$12.25 (Costco) | ~$0.61 |
+| **One Degree** | Sprouted Instant Oatmeal | 18oz | ~$9.65–12.40 | ~$1.38–1.79 |
+| **Seven Sundays** | Muesli | 12oz | ~$12.40–13.80 | ~$2.07–2.76 |
 
 ---
 
@@ -76,7 +77,7 @@ Canadian brand (distinct from US baby-food brand helloyumi.com). Organic instant
 | **Freeze-dried fruit?** | ✅ Yes | ❌ No |
 | **Vitamins enriched?** | Naturally nutrient-dense (seeds) | ✅ 27 added vitamins & minerals |
 | **Made in Canada?** | ✅ Yes | ✅ Yes |
-| **Price per serving** | ~$2.50–3.00 CAD | ~$1.20–$2.00 CAD |
+| **Price per serving** | ~$2.50–3.00 | ~$1.20–$2.00 |
 
 **Our Win Angle (for families):**
 - Goldy's Protein+ delivers **10g protein** vs. Yumi's 3g (instant) — more than 3x more protein to keep kids and parents fuelled through the morning.
@@ -95,7 +96,7 @@ Canadian brand (distinct from US baby-food brand helloyumi.com). Organic instant
 ## Battle Card 2: vs. Quaker Protein
 
 ### About Quaker Protein
-PepsiCo-owned mass-market giant. Protein Instant Oatmeal line: 10–12g protein/serving from whey isolate + whey concentrate. Flavors: Maple & Brown Sugar, Banana Nut, Cranberry Almond, Apples & Cinnamon. 11g added sugar (Maple Brown Sugar). Ready in 2 min. Available everywhere (Walmart, Loblaws, Sobeys, Costco, etc.). Price: ~$5–6 USD / 6-packet box.
+PepsiCo-owned mass-market giant. Protein Instant Oatmeal line: 10–12g protein/serving from whey isolate + whey concentrate. Flavors: Maple & Brown Sugar, Banana Nut, Cranberry Almond, Apples & Cinnamon. 11g added sugar (Maple Brown Sugar). Ready in 2 min. Available everywhere (Walmart, Loblaws, Sobeys, Costco, etc.). Price: ~$6.90–8.30 / 6-packet box.
 
 | | Goldy's Protein+ | Quaker Protein |
 |---|---|---|
@@ -108,7 +109,7 @@ PepsiCo-owned mass-market giant. Protein Instant Oatmeal line: 10–12g protein/
 | **Organic?** | Non-GMO / clean label | Organic line exists (limited) |
 | **Superseeds?** | ✅ Yes | ❌ No |
 | **Freeze-dried fruit?** | ✅ Yes | ❌ Dried fruit / flavorings |
-| **Price/serving** | ~$2.50–3.00 CAD | ~$0.83–1.00 USD (~$1.15–1.40 CAD) |
+| **Price/serving** | ~$2.50–3.00 | ~$1.15–1.40 |
 
 **Our Win Angle (for families):**
 - Same protein count (10g), but Goldy's protein is 100% plant-based whole-food seeds — no dairy, no isolates. Parents don't need to add whey powder to their kids' breakfast.
@@ -129,7 +130,7 @@ PepsiCo-owned mass-market giant. Protein Instant Oatmeal line: 10–12g protein/
 ## Battle Card 3: vs. Nature's Path
 
 ### About Nature's Path
-BC-based Canadian brand. USDA Organic, Non-GMO Project Verified. Instant Oatmeal: ~6g protein, sweetened with cane sugar (6–8g added sugar in flavored varieties). Flavors: Apple Cinnamon, Maple Nut, Blueberry Cinnamon Flax, Original. Price: ~$5–7 USD / 8-packet box. Available at Whole Foods, Target, Walmart, Loblaws, Costco.
+BC-based Canadian brand. USDA Organic, Non-GMO Project Verified. Instant Oatmeal: ~6g protein, sweetened with cane sugar (6–8g added sugar in flavored varieties). Flavors: Apple Cinnamon, Maple Nut, Blueberry Cinnamon Flax, Original. Price: ~$6.90–9.65 / 8-packet box. Available at Whole Foods, Walmart, Loblaws, Costco.
 
 | | Goldy's Instant Oatmeal | Nature's Path Instant Oatmeal |
 |---|---|---|
@@ -140,7 +141,7 @@ BC-based Canadian brand. USDA Organic, Non-GMO Project Verified. Instant Oatmeal
 | **Superseeds included?** | ✅ Yes | Partial (Flax Plus variety only) |
 | **Freeze-dried fruit?** | ✅ Yes | ❌ Dried fruit |
 | **Made in Canada?** | ✅ Yes | ✅ Yes (BC) |
-| **Price/serving** | ~$2.50–3.00 CAD | ~$0.88–1.10 CAD equivalent |
+| **Price/serving** | ~$2.50–3.00 | ~$0.87–1.21 |
 
 **Our Win Angle (for families):**
 - Goldy's has **zero refined sugar**; Nature's Path flavored oatmeal uses cane sugar as the second ingredient. Parents buying "organic" don't expect sugar-loaded oatmeal.
@@ -159,7 +160,7 @@ BC-based Canadian brand. USDA Organic, Non-GMO Project Verified. Instant Oatmeal
 ## Battle Card 4: vs. One Degree Organics
 
 ### About One Degree Organics
-BC-based Canadian brand. Sprouted oats for better nutrient absorption. Protein Instant Oatmeal uses faba beans for added protein. USDA Organic, Non-GMO, Glyphosate-Free (3rd-party tested). Farm traceable via QR code. Price: ~$7–9 USD / 18oz instant oatmeal. Available at Whole Foods, Costco, Thrive Market, Amazon.
+BC-based Canadian brand. Sprouted oats for better nutrient absorption. Protein Instant Oatmeal uses faba beans for added protein. USDA Organic, Non-GMO, Glyphosate-Free (3rd-party tested). Farm traceable via QR code. Price: ~$9.65–12.40 / 18oz instant oatmeal. Available at Whole Foods, Costco, Thrive Market, Amazon.
 
 | | Goldy's | One Degree Organics |
 |---|---|---|
@@ -171,7 +172,7 @@ BC-based Canadian brand. Sprouted oats for better nutrient absorption. Protein I
 | **Added sugar?** | ❌ 0g refined (date powder) | Coconut sugar (low, not zero) |
 | **Superseeds?** | ✅ Yes — multiple per SKU | ❌ No (oat-focused) |
 | **Freeze-dried fruit?** | ✅ Yes | ❌ Dried fruit |
-| **Price/serving** | ~$2.50–3.00 CAD | ~$1.40–$1.80 CAD equivalent |
+| **Price/serving** | ~$2.50–3.00 | ~$1.38–1.79 |
 
 **Our Win Angle (for families):**
 - Both are Canadian, clean, glyphosate-free — this is a close fight. Goldy's wins on the **superseed nutrition story** and **zero refined sugar**.
@@ -190,7 +191,7 @@ BC-based Canadian brand. Sprouted oats for better nutrient absorption. Protein I
 ## Battle Card 5: vs. Bob's Red Mill Protein Oats
 
 ### About Bob's Red Mill Protein Oats
-Employee-owned (founded 1978). Protein Oats = a special high-protein oat variety bred to contain 60% more protein than regular oats — no protein powders added. 9–10g protein/serving. Gluten-Free, Non-GMO, 0g added sugar. Organic version available. Price: $8.89 USD / 64oz at Costco. Available at Costco, Walmart, Amazon, H-E-B, Whole Foods.
+Employee-owned (founded 1978). Protein Oats = a special high-protein oat variety bred to contain 60% more protein than regular oats — no protein powders added. 9–10g protein/serving. Gluten-Free, Non-GMO, 0g added sugar. Organic version available. Price: ~$12.25 / 64oz at Costco. Available at Costco, Walmart, Amazon, Whole Foods.
 
 | | Goldy's Protein+ | Bob's Red Mill Protein Oats |
 |---|---|---|
@@ -203,7 +204,7 @@ Employee-owned (founded 1978). Protein Oats = a special high-protein oat variety
 | **Omega-3s / healthy fats?** | ✅ Yes (seeds) | Minimal (oats only) |
 | **Flavored / ready-to-eat?** | ✅ Yes (Cinnamon Spice, Original) | ❌ Plain — requires prep and topping |
 | **Freeze-dried fruit?** | ✅ Yes | ❌ No |
-| **Price/serving** | ~$2.50–3.00 CAD | ~$0.44 USD (~$0.60 CAD) — bulk Costco |
+| **Price/serving** | ~$2.50–3.00 | ~$0.61 (bulk Costco) |
 
 **Our Win Angle (for families):**
 - Goldy's Protein+ delivers the same protein count, but from seeds not just oats — the whole family gets omega-3s, healthy fats, and a broader micronutrient profile in every bowl.
@@ -212,7 +213,7 @@ Employee-owned (founded 1978). Protein Oats = a special high-protein oat variety
 - Goldy's is a **complete, grab-and-go family breakfast**; Bob's is a bulk pantry ingredient that requires prep and customization.
 
 **Their Strengths We Must Address:**
-- Price: Bob's Costco 64oz is dramatically cheaper per serving ($0.44 vs. ~$2.50 CAD) — families feeding multiple kids feel this.
+- Price: Bob's Costco 64oz is dramatically cheaper per serving (~$0.61 vs. ~$2.50) — families feeding multiple kids feel this.
 - Deep brand trust and loyalty in the natural/health grocery channel — parents already know and trust Bob's.
 - 60% more protein than regular oats is a very clean, simple claim.
 
@@ -221,7 +222,7 @@ Employee-owned (founded 1978). Protein Oats = a special high-protein oat variety
 ## Battle Card 6: vs. Seven Sundays
 
 ### About Seven Sundays
-B-Corp certified muesli brand (Minneapolis, 2011). Gluten-free, Non-GMO, no refined sugar. Oats + sorghum + buckwheat + seeds + fruit. ~8g protein/serving. Can be eaten hot like oatmeal or cold. Price: ~$9–10 USD / 12oz bag. Available DTC and specialty retail including Walmart.
+B-Corp certified muesli brand (Minneapolis, 2011). Gluten-free, Non-GMO, no refined sugar. Oats + sorghum + buckwheat + seeds + fruit. ~8g protein/serving. Can be eaten hot like oatmeal or cold. Price: ~$12.40–13.80 / 12oz bag. Available DTC and specialty retail including Walmart.
 
 | | Goldy's Instant Oatmeal | Seven Sundays Muesli |
 |---|---|---|
@@ -233,8 +234,8 @@ B-Corp certified muesli brand (Minneapolis, 2011). Gluten-free, Non-GMO, no refi
 | **Freeze-dried fruit?** | ✅ Yes | ❌ Dried fruit |
 | **B-Corp?** | Not certified | ✅ B-Corp certified |
 | **Made in Canada?** | ✅ Yes | ❌ US brand |
-| **Price/bag** | ~$9.99 CAD (~$7.40 USD) | ~$9–10 USD |
-| **Price/serving** | ~$2.50–3.00 CAD | ~$1.50–2.00 USD |
+| **Price/bag** | ~$9.99 | ~$12.40–13.80 |
+| **Price/serving** | ~$2.50–3.00 | ~$2.07–2.76 |
 
 **Our Win Angle (for families):**
 - Goldy's Protein+ beats Seven Sundays on protein (10g vs. 8g) with a cleaner seed-only source — better for keeping kids and parents fuelled.
@@ -252,7 +253,7 @@ B-Corp certified muesli brand (Minneapolis, 2011). Gluten-free, Non-GMO, no refi
 ## Battle Card 7: vs. Magic Spoon *(Cereal SKU only)*
 
 ### About Magic Spoon
-Grain-free, high-protein adult cold cereal. 13–14g protein/serving from whey isolate. Zero added sugar. ~$9–10 USD / 7oz box. In 6,800 US stores. Not a hot cereal competitor — relevant only against Goldy's Superseed Cereal SKU.
+Grain-free, high-protein adult cold cereal. 13–14g protein/serving from whey isolate. Zero added sugar. ~$12.40–13.80 / 7oz box. In 6,800 US stores. Not a hot cereal competitor — relevant only against Goldy's Superseed Cereal SKU.
 
 | | Goldy's Superseed Cereal | Magic Spoon |
 |---|---|---|
@@ -262,7 +263,7 @@ Grain-free, high-protein adult cold cereal. 13–14g protein/serving from whey i
 | **Whole-food ingredients?** | ✅ Yes — real seeds + freeze-dried fruit | ❌ Processed whey + allulose + monk fruit |
 | **Added sugar?** | ❌ 0g | ❌ 0g |
 | **Grain-free?** | ✅ Yes | ✅ Yes |
-| **Price/oz** | ~$1.14 CAD/oz (~$0.84 USD) | ~$1.29–1.43 USD/oz |
+| **Price/oz** | ~$1.14/oz | ~$1.78–1.97/oz |
 | **Market** | Canada | US (mass retail) |
 
 **Our Win Angle:** Goldy's is cheaper, vegan, and made with real whole-food ingredients. Magic Spoon is a processed novelty product; Goldy's is real food. Not a direct hot-cereal battle — most relevant if/when Goldy's expands to US retail.
