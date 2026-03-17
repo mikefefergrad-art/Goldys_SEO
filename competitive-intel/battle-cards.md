@@ -4,6 +4,12 @@
 
 ---
 
+## Our Target Customer
+
+**Family-friendly shoppers** — parents who want clean, nutritious, convenient breakfasts they feel great feeding their kids and eating themselves. They read labels, care about what goes into their family's food, and are willing to pay more for real ingredients over fillers and refined sugar. They shop at grocery stores, natural food retailers, and online — and they're looking for a product the whole family can enjoy at the breakfast table.
+
+---
+
 ## Our Star SKUs
 
 | SKU | Key Stats | Price |
@@ -12,12 +18,13 @@
 | **Protein+ Instant Superseed Oatmeal** | 10g plant-based protein · 5g fibre · oats + chia, pumpkin, sunflower seeds · 0g refined sugar · 100% vegan | TBD (new SKU) |
 | **Superseed Cereal** | Grain-free · chia, hemp, pumpkin, buckwheat + freeze-dried fruit · 0g added sugar | $9.00 CAD / 225g |
 
-**What sets every Goldy's product apart:**
-- Glyphosate-free Canadian oats (oatmeal line)
-- Superseeds blended in — not plain oats
-- Sweetened only with organic date powder — zero refined sugar
-- Freeze-dried whole fruit (retains nutrients + flavor better than dried)
+**What sets every Goldy's product apart for families:**
+- Glyphosate-free Canadian oats (oatmeal line) — parents can trust what they're feeding their kids
+- Superseeds blended in — not plain oats — so the whole family gets more nutrition per bowl
+- Sweetened only with organic date powder — zero refined sugar (no morning sugar crashes for kids)
+- Freeze-dried whole fruit (retains nutrients + flavor better than dried — kids love the taste)
 - Non-GMO · Gluten-Free · Dairy-Free · Vegan · Made in Canada
+- Ready in under 5 minutes — realistic for busy family mornings
 
 ---
 
@@ -71,17 +78,17 @@ Canadian brand (distinct from US baby-food brand helloyumi.com). Organic instant
 | **Made in Canada?** | ✅ Yes | ✅ Yes |
 | **Price per serving** | ~$2.50–3.00 CAD | ~$1.20–$2.00 CAD |
 
-**Our Win Angle:**
-- Goldy's Protein+ delivers **10g protein** vs. Yumi's 3g (instant) — more than 3x more protein per bowl.
-- Goldy's protein is seed-based whole food; Yumi Organics' protein comes from oats + fortification.
-- Superseeds in every serving = omega-3s, healthy fats, and fibre that Yumi Organics can't match.
-- Glyphosate-free certification is a powerful differentiator in oats (Yumi Organics does not claim this).
-- Freeze-dried real fruit vs. no fruit inclusion.
+**Our Win Angle (for families):**
+- Goldy's Protein+ delivers **10g protein** vs. Yumi's 3g (instant) — more than 3x more protein to keep kids and parents fuelled through the morning.
+- Goldy's protein is seed-based whole food; Yumi Organics' protein comes from oats + fortification. Parents want real food, not lab-added vitamins.
+- Superseeds in every serving = omega-3s, healthy fats, and fibre that Yumi Organics can't match — nutrients growing bodies need.
+- Glyphosate-free certification is a powerful differentiator — parents actively worry about pesticide residue in oats (Yumi Organics does not claim this).
+- Freeze-dried real fruit means kids get real fruit taste without parents adding sugar or toppings.
 
 **Their Strengths We Must Address:**
-- Cheaper per serving (~$1.20 vs. our ~$2.50) — we must sell on value per nutrient.
-- 27 added vitamins & minerals is a compelling claim for health-focused consumers — communicate that Goldy's gets its nutrients from real seeds, not fortification.
-- Overnight oats format is trendy — Goldy's cold-soak potential for Superseed Cereal is a story worth telling.
+- Cheaper per serving (~$1.20 vs. our ~$2.50) — for budget-conscious families, we must sell on value per nutrient ("what's actually in the bowl").
+- 27 added vitamins & minerals is a compelling claim for parents — counter with: Goldy's gets its nutrients from real seeds, not synthetic fortification.
+- Overnight oats format is trendy for busy parents — Goldy's cold-soak potential for Superseed Cereal is a story worth telling.
 
 ---
 
@@ -103,20 +110,19 @@ PepsiCo-owned mass-market giant. Protein Instant Oatmeal line: 10–12g protein/
 | **Freeze-dried fruit?** | ✅ Yes | ❌ Dried fruit / flavorings |
 | **Price/serving** | ~$2.50–3.00 CAD | ~$0.83–1.00 USD (~$1.15–1.40 CAD) |
 
-**Our Win Angle:**
-- Same protein count (10g), but Goldy's protein is 100% plant-based whole-food seeds — no dairy, no isolates.
-- Quaker Protein Maple Brown Sugar has **11g of added sugar** per packet. Goldy's has zero.
-- Goldy's oats are glyphosate-free; Quaker oats have faced scrutiny over glyphosate residue in testing.
-- Goldy's is vegan — Quaker Protein is not.
-- Whole-food seeds deliver omega-3s, healthy fats, and additional micronutrients beyond just protein.
+**Our Win Angle (for families):**
+- Same protein count (10g), but Goldy's protein is 100% plant-based whole-food seeds — no dairy, no isolates. Parents don't need to add whey powder to their kids' breakfast.
+- Quaker Protein Maple Brown Sugar has **11g of added sugar** per packet — that's almost 3 teaspoons of sugar per bowl before the kids even leave for school. Goldy's has zero.
+- Goldy's oats are glyphosate-free; Quaker oats have faced scrutiny over glyphosate residue in testing. This matters to parents who read the news.
+- Whole-food seeds deliver omega-3s, healthy fats, and additional micronutrients beyond just protein — a more complete breakfast for growing kids.
 
-**Key Message:**
-> "Quaker Protein gets to 10g with whey powder and 11g of added sugar. Goldy's gets to 10g with real seeds — and zero refined sugar. Same protein. Completely different story."
+**Key Message (for the family shopper):**
+> "You wouldn't add 3 teaspoons of sugar to your child's breakfast — but that's what's in every packet of Quaker Protein. Goldy's matches the protein with real seeds and zero refined sugar. A breakfast the whole family can feel good about."
 
 **Their Strengths We Must Address:**
-- Price: Quaker is ~2–3x cheaper per serving.
-- Ubiquity: sold in every grocery store in Canada.
-- Brand trust: household name for decades.
+- Price: Quaker is ~2–3x cheaper per serving — for families watching grocery budgets, this is real.
+- Ubiquity: sold in every grocery store in Canada — parents grab what's easy and available.
+- Brand trust: Quaker has been the family breakfast default for generations. We're the new option that has to earn trust.
 
 ---
 
@@ -136,16 +142,17 @@ BC-based Canadian brand. USDA Organic, Non-GMO Project Verified. Instant Oatmeal
 | **Made in Canada?** | ✅ Yes | ✅ Yes (BC) |
 | **Price/serving** | ~$2.50–3.00 CAD | ~$0.88–1.10 CAD equivalent |
 
-**Our Win Angle:**
-- Goldy's has **zero refined sugar**; Nature's Path flavored oatmeal uses cane sugar as the second ingredient.
-- Glyphosate-free certification on our oats is a specific, verifiable claim Nature's Path doesn't make for their oatmeal.
-- Superseeds in every serving (not just the flax variety) = more complete nutrition per bowl.
-- Protein+ SKU delivers nearly double the protein of Nature's Path's standard oatmeal.
+**Our Win Angle (for families):**
+- Goldy's has **zero refined sugar**; Nature's Path flavored oatmeal uses cane sugar as the second ingredient. Parents buying "organic" don't expect sugar-loaded oatmeal.
+- Glyphosate-free certification on our oats is a specific, verifiable claim — parents concerned about pesticide residue have a clear answer with Goldy's.
+- Superseeds in every serving = more complete nutrition per bowl for kids and parents, not just empty-calorie oats.
+- Protein+ SKU delivers nearly double the protein of Nature's Path — keeping kids fuller and focused through the morning.
+- Freeze-dried real fruit means kids love the taste without parents needing to add toppings.
 
 **Their Strengths We Must Address:**
-- USDA Organic certification carries weight — our clean label story must be told loudly and specifically.
-- Mass distribution across Canada and US — we're still specialty retail.
-- Price per serving is significantly lower.
+- USDA Organic certification carries weight with family shoppers — our clean label story must be told loudly and specifically.
+- Mass distribution across Canada and US — families buy what's on their shelf, and Nature's Path is everywhere.
+- Price per serving is significantly lower — matters for families buying breakfast for 3–5 people daily.
 
 ---
 
@@ -166,15 +173,16 @@ BC-based Canadian brand. Sprouted oats for better nutrient absorption. Protein I
 | **Freeze-dried fruit?** | ✅ Yes | ❌ Dried fruit |
 | **Price/serving** | ~$2.50–3.00 CAD | ~$1.40–$1.80 CAD equivalent |
 
-**Our Win Angle:**
+**Our Win Angle (for families):**
 - Both are Canadian, clean, glyphosate-free — this is a close fight. Goldy's wins on the **superseed nutrition story** and **zero refined sugar**.
-- Goldy's freeze-dried fruit vs. One Degree's dried fruit = better flavor and nutrient retention.
-- Goldy's seeds add omega-3s, healthy fats, and multi-source protein One Degree's oat base can't deliver.
-- One Degree's faba bean protein is a novel ingredient — Goldy's whole-food seed protein is more familiar and palatable.
+- Goldy's freeze-dried fruit vs. One Degree's dried fruit = better flavor and nutrient retention — and kids actually want to eat it.
+- Goldy's seeds add omega-3s, healthy fats, and multi-source protein One Degree's plain oat base can't deliver. Parents get a more complete breakfast without adding extras.
+- One Degree's faba bean protein is a novel ingredient that may confuse families — Goldy's whole-food seed protein (chia, pumpkin, sunflower) is familiar and kid-friendly.
+- Goldy's is truly instant — add hot water and it's done. One Degree's rolled/quick oats require more stovetop time on busy mornings.
 
 **Their Strengths We Must Address:**
-- Farm-to-table QR traceability is a compelling transparency story — Goldy's should develop its own ingredient sourcing narrative.
-- USDA Organic is a gap for us.
+- Farm-to-table QR traceability is a compelling transparency story for ingredient-conscious parents — Goldy's should develop its own sourcing narrative.
+- USDA Organic is a gap for us — and "organic" is often the first filter for family shoppers.
 - Stronger US distribution (Whole Foods, Costco).
 
 ---
@@ -197,15 +205,15 @@ Employee-owned (founded 1978). Protein Oats = a special high-protein oat variety
 | **Freeze-dried fruit?** | ✅ Yes | ❌ No |
 | **Price/serving** | ~$2.50–3.00 CAD | ~$0.44 USD (~$0.60 CAD) — bulk Costco |
 
-**Our Win Angle:**
-- Goldy's Protein+ delivers the same protein count, but from seeds not just oats — meaning you also get omega-3s, healthy fats, and a broader micronutrient profile in every bowl.
-- Bob's Protein Oats are plain and unflavored — Goldy's comes ready-to-eat with real flavors and freeze-dried fruit (no prep required beyond adding water).
-- Glyphosate-free oats is a claim Bob's doesn't specifically make.
-- Goldy's is a complete, convenient breakfast product; Bob's is a bulk pantry ingredient.
+**Our Win Angle (for families):**
+- Goldy's Protein+ delivers the same protein count, but from seeds not just oats — the whole family gets omega-3s, healthy fats, and a broader micronutrient profile in every bowl.
+- Bob's Protein Oats are plain and unflavored — parents have to add toppings, sweetener, and fruit to make kids eat it. Goldy's is ready-to-eat with real flavors and freeze-dried fruit. Just add hot water.
+- Glyphosate-free oats is a claim Bob's doesn't specifically make — matters to parents watching for pesticide residue.
+- Goldy's is a **complete, grab-and-go family breakfast**; Bob's is a bulk pantry ingredient that requires prep and customization.
 
 **Their Strengths We Must Address:**
-- Price: Bob's Costco 64oz is dramatically cheaper per serving ($0.44 vs. ~$2.50 CAD).
-- Deep brand trust and loyalty in the natural/health grocery channel.
+- Price: Bob's Costco 64oz is dramatically cheaper per serving ($0.44 vs. ~$2.50 CAD) — families feeding multiple kids feel this.
+- Deep brand trust and loyalty in the natural/health grocery channel — parents already know and trust Bob's.
 - 60% more protein than regular oats is a very clean, simple claim.
 
 ---
@@ -228,15 +236,15 @@ B-Corp certified muesli brand (Minneapolis, 2011). Gluten-free, Non-GMO, no refi
 | **Price/bag** | ~$9.99 CAD (~$7.40 USD) | ~$9–10 USD |
 | **Price/serving** | ~$2.50–3.00 CAD | ~$1.50–2.00 USD |
 
-**Our Win Angle:**
-- Goldy's Protein+ beats Seven Sundays on protein (10g vs. 8g) with a cleaner seed-only source.
-- Goldy's is Canadian — local sourcing story resonates in Canadian retail.
-- Freeze-dried whole fruit vs. dried fruit = better nutrition and more vibrant flavor.
-- True instant format (hot water + done) is more convenient than muesli prep.
-- Goldy's Superseed Cereal covers the grain-free space Seven Sundays cannot.
+**Our Win Angle (for families):**
+- Goldy's Protein+ beats Seven Sundays on protein (10g vs. 8g) with a cleaner seed-only source — better for keeping kids and parents fuelled.
+- Goldy's is Canadian — local sourcing story resonates with families who care about where their food comes from.
+- Freeze-dried whole fruit vs. dried fruit = better nutrition and more vibrant flavor that kids actually enjoy.
+- True instant format (hot water + done) is more convenient for rushed family mornings than muesli prep.
+- Goldy's Superseed Cereal covers the grain-free space for families with gluten sensitivities or dietary restrictions.
 
 **Their Strengths We Must Address:**
-- B-Corp certification adds credibility — worth pursuing for Goldy's.
+- B-Corp certification adds credibility with values-driven family shoppers — worth pursuing for Goldy's.
 - Seven Sundays has a strong US DTC following and brand story.
 
 ---
@@ -290,19 +298,19 @@ LOW PROTEIN / serving
 
 ---
 
-## Goldy's Core Messaging by SKU
+## Goldy's Core Messaging by SKU (Family-First)
 
 ### Instant Superseed Oatmeal
-> "Not plain oats. Every bowl comes loaded with chia, hemp, pumpkin, and buckwheat — plus real freeze-dried fruit and zero refined sugar. Made with glyphosate-free Canadian oats. Ready in 5 minutes."
+> "Breakfast the whole family can feel good about. Glyphosate-free Canadian oats loaded with chia, hemp, pumpkin, and buckwheat — plus real freeze-dried fruit and zero refined sugar. Ready in 5 minutes, loved by kids and parents alike."
 
 ### Protein+ Instant Superseed Oatmeal
-> "10 grams of plant-based protein from real seeds — not whey powder, not isolates, not faba beans. Just whole-food superseeds in every bowl. Zero refined sugar. 100% vegan. Done in 5 minutes."
+> "10 grams of plant-based protein from real seeds — not whey powder, not sugar. Keeps kids fuelled and focused through the morning. Keeps parents feeling great about what they put on the table. Done in 5 minutes."
 
-### Against Quaker Protein specifically:
-> "Quaker hits 10g protein with dairy whey and 11g of added sugar. Goldy's hits 10g with seeds — and zero refined sugar. Same number. Completely different breakfast."
+### Against Quaker Protein (for the family shopper):
+> "You wouldn't add 3 teaspoons of sugar to your child's oatmeal — but Quaker Protein does it for you. Goldy's matches the protein with real seeds and zero refined sugar. A breakfast the whole family deserves."
 
-### Against the 'just oats' category:
-> "Most instant oatmeal is just oats. Goldy's starts with glyphosate-free Canadian oats and adds superseeds for omega-3s, protein, and healthy fats. It's oatmeal, upgraded."
+### Against the 'just oats' category (for the family shopper):
+> "Most instant oatmeal is just oats. Goldy's starts with glyphosate-free Canadian oats and adds superseeds for omega-3s, protein, and healthy fats — a more complete breakfast for growing kids and busy parents. No toppings required."
 
 ---
 
@@ -310,11 +318,12 @@ LOW PROTEIN / serving
 
 | Gap | Recommended Action |
 |---|---|
-| No USDA Organic certification | Pursue certification or clearly communicate glyphosate-free + non-GMO sourcing as the Canadian equivalent |
-| Protein+ protein claim needs on-pack prominence | Lead with "10g plant-based protein" front-of-pack, call out seed sources |
-| Price premium vs. Yumi Organics / Nature's Path | Build cost-per-nutrient comparison (protein, omega-3, fibre per dollar) in marketing |
-| Limited US distribution | Not urgent now — focus on winning Canadian health/specialty retail first |
-| No B-Corp certification | Consider pursuing — adds sustainability credibility vs. Seven Sundays |
+| No USDA Organic certification | Pursue certification or clearly communicate glyphosate-free + non-GMO sourcing — "organic" is the first filter for many family shoppers |
+| Protein+ protein claim needs on-pack prominence | Lead with "10g plant-based protein" front-of-pack — parents scanning the shelf need to see this instantly |
+| Price premium vs. Yumi Organics / Nature's Path | Build cost-per-nutrient comparison (protein, omega-3, fibre per dollar) — reframe as "what are you actually feeding your family per dollar?" |
+| Family-friendly messaging on pack | Ensure packaging and website speak to families, not just health enthusiasts — "the whole family" language, kid-friendly flavor names, family breakfast imagery |
+| Limited retail distribution in Canada | Family shoppers buy at Loblaws, Metro, Sobeys — specialty-only limits reach. Prioritize Canadian grocery chain expansion. |
+| No B-Corp certification | Consider pursuing — values-driven family shoppers notice this |
 
 ---
 
