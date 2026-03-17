@@ -15,9 +15,9 @@
 
 | SKU | Key Stats | Price |
 |---|---|---|
-| **Instant Superseed Oatmeal** | Glyphosate-free Canadian oats + chia, hemp, pumpkin, buckwheat · freeze-dried fruit · sweetened with organic date powder · 0g refined sugar | ~$9.99 / 210g |
-| **Protein+ Instant Superseed Oatmeal** | 10g plant-based protein · 5g fibre · oats + chia, pumpkin, sunflower seeds · 0g refined sugar · 100% vegan | TBD (new SKU) |
-| **Superseed Cereal** | Grain-free · chia, hemp, pumpkin, buckwheat + freeze-dried fruit · 0g added sugar | $9.00 / 225g |
+| **Instant Superseed Oatmeal** | Glyphosate-free Canadian oats + chia, hemp, pumpkin, buckwheat · freeze-dried fruit · sweetened with organic date powder · 0g refined sugar | $6.99 / box (6 × 35g bags) |
+| **Protein+ Instant Superseed Oatmeal** | 10g plant-based protein · 5g fibre · oats + chia, pumpkin, sunflower seeds · 0g refined sugar · 100% vegan | $7.99 / box (5 × 50g bags) |
+| **Superseed Cereal** | Grain-free · chia, hemp, pumpkin, buckwheat + freeze-dried fruit · 0g added sugar | $10.99 / 225g |
 
 **What sets every Goldy's product apart for families:**
 - Glyphosate-free Canadian oats (oatmeal line) — parents can trust what they're feeding their kids
@@ -49,8 +49,8 @@
 
 | Brand | Product | Size | Price (CAD) | Per Serving (CAD, est.) |
 |---|---|---|---|---|
-| **Goldy's** | Instant Superseed Oatmeal | 210g | ~$9.99 | ~$2.50–3.00 |
-| **Goldy's** | Protein+ Oatmeal | TBD | TBD | TBD |
+| **Goldy's** | Instant Superseed Oatmeal | 6 × 35g bags | $6.99 | ~$1.17 |
+| **Goldy's** | Protein+ Oatmeal | 5 × 50g bags | $7.99 | ~$1.60 |
 | **Yumi Organics** | Morning Oats (8 pkts) | box | ~$9.60 | ~$1.20 |
 | **Yumi Organics** | Overnight Oats (5 pkts) | box | ~$10.00 | ~$2.00 |
 | **Nature's Path** | Instant Oatmeal (8 pkts) | 14oz | ~$6.90–9.65 | ~$0.87–1.21 |
